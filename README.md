@@ -9,7 +9,7 @@ We experiment our models in *yelp_review_full* dataset from Hugging Face dataset
 Dataset contain next rows:
  - **text** -- customer reviews text
  - **label** -- corresponds to the score associated with review (between 1 and 5)
- - 
+
 Goal: Predict rating based on customer review.
 
 ## Packages Used
